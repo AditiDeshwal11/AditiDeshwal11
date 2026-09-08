@@ -2,9 +2,13 @@
   <img src="./aditi_deshwal_github_banner.svg" width="100%">
 </p>
 
-# Hi, I'm Aditi Deshwal 👋
+<p align="center">
+# Hi, I'm Aditi Deshwal 🐥
+</p>
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%7C+Fraud+Detection;Data+%26+Business+Analyst;Turning+Data+Into+Decisions" alt="Typing SVG" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditideshwal1234@gmail.com)
