@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./aditi_deshwal_github_banner.svg" width="100%">
+</p>
 
 # Hi, I'm Aditi Deshwal 👋
 
