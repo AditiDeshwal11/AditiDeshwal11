@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050817"/><stop offset=".5" stop-color="#0b1230"/><stop offset="1" stop-color="#170a28"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff4fd8"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#33446b" stroke-width=".7" opacity=".35"/></pattern>
+</defs>
+<rect width="900" height="260" rx="18" fill="url(#bg)"/>
+<rect width="900" height="260" fill="url(#grid)"/>
+<rect x="3" y="3" width="894" height="254" rx="17" fill="none" stroke="url(#neon)" stroke-width="2">
+  <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+</rect>
+
+<text x="35" y="45" fill="#fff" font-family="Arial" font-size="25" font-weight="800">GITHUB // SYSTEM ANALYTICS</text>
+<text x="35" y="68" fill="#69faff" font-family="monospace" font-size="12">LIVE REPOSITORY TELEMETRY • CODE ACTIVITY • ENGINEERING SIGNALS</text>
+
+<!-- KPI panels -->
+<g font-family="Arial">
+  <rect x="35" y="90" width="190" height="72" rx="10" fill="#071020" stroke="#23466c"/>
+  <text x="52" y="113" fill="#6f8eaf" font-size="11">REPOSITORIES</text>
+  <text x="52" y="145" fill="#fff" font-size="27" font-weight="800">● ● ● ●</text>
+  <circle cx="195" cy="108" r="4" fill="#00f5ff"><animate attributeName="r" values="3;7;3" dur="1.2s" repeatCount="indefinite"/></circle>
+
+  <rect x="245" y="90" width="190" height="72" rx="10" fill="#071020" stroke="#23466c"/>
+  <text x="262" y="113" fill="#6f8eaf" font-size="11">CODE ACTIVITY</text>
+  <text x="262" y="145" fill="#69faff" font-size="25" font-weight="800">ACTIVE</text>
+  <rect x="355" y="104" width="55" height="3" rx="2" fill="#00f5ff">
+    <animate attributeName="width" values="20;55;30;55" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="455" y="90" width="190" height="72" rx="10" fill="#071020" stroke="#23466c"/>
+  <text x="472" y="113" fill="#6f8eaf" font-size="11">PROFILE SIGNAL</text>
+  <text x="472" y="145" fill="#c5a7ff" font-size="25" font-weight="800">ONLINE</text>
+  <circle cx="615" cy="108" r="5" fill="#61ffa1"><animate attributeName="opacity" values=".25;1;.25" dur="1s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- animated graph -->
+<g transform="translate(35,185)">
+  <text x="0" y="0" fill="#6f8eaf" font-family="monospace" font-size="11">ACTIVITY STREAM</text>
+  <polyline fill="none" stroke="#00f5ff" stroke-width="3" filter="url(#glow)"
+    points="0,45 55,32 110,50 165,18 220,38 275,10 330,30 385,4 440,25 500,8 555,20 610,2 670,15 730,5 800,18">
+    <animate attributeName="points"
+      values="0,45 55,32 110,50 165,18 220,38 275,10 330,30 385,4 440,25 500,8 555,20 610,2 670,15 730,5 800,18;
+              0,30 55,50 110,22 165,42 220,15 275,35 330,8 385,30 440,12 500,28 555,5 610,25 670,8 730,20 800,4;
+              0,45 55,32 110,50 165,18 220,38 275,10 330,30 385,4 440,25 500,8 555,20 610,2 670,15 730,5 800,18"
+      dur="4s" repeatCount="indefinite"/>
+  </polyline>
+  <line x1="0" y1="55" x2="800" y2="55" stroke="#2a3c5e"/>
+</g>
+
+<!-- moving scan -->
+<rect x="20" y="80" width="3" height="95" fill="#fff" filter="url(#glow)">
+  <animate attributeName="x" values="20;880;20" dur="5s" repeatCount="indefinite"/>
+</rect>
+</svg>
