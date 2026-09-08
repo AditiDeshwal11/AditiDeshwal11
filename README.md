@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/AditiDeshwal11/AditiDeshwal11/main/aditi_deshwal_github_banner.svg" width="100%" alt="banner"/>
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1400" height="400"
      viewBox="0 0 1400 400">
