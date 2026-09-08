@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/AditiDeshwal11/AditiDeshwal11/blob/main/assets/banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/AditiDeshwal11/AditiDeshwal11/main/aditi_deshwal_github_banner.svg" width="100%" alt="banner"/>
 
 # Hi, I'm Aditi Deshwal 👋
 
