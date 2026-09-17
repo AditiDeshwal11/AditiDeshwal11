@@ -50,14 +50,40 @@ I'm a final-year Computer Science graduate (University of Delhi) who got hooked 
 </p>
 </div>
 
-## 📈 Excel & Data Analysis Projects
+## 📊 Data Analytics & Dashboard Projects
 
-**SmartCampus 360 — Student Performance & Teaching Effectiveness Dashboard**
-- Analyzed 1,000+ student records across attendance, engagement, and academic performance
-- Built formula-driven KPI dashboard (AVERAGEIFS, COUNTIFS) with dynamic charts — no hardcoded values
-- Segmented students into Risk Levels (High/Medium/Low) and Performance Categories (Exceptional → Needs Improvement)
-- Identified key correlation: study hours and academic score both decline as age group increases, flagging a teaching-effectiveness gap for older student cohorts
-- **Tools:** Excel (PivotTables, PivotCharts, AVERAGEIFS/COUNTIFS), Data Visualization
+### 🏫 SmartCampus 360 — Executive Analytics Dashboard
+
+> A student-performance analytics dashboard focused on academic
+> performance, attendance, engagement, risk analysis, and student
+> success indicators.
+
+<p align="center">
+  <img src="./01_executive_overview.png" width="95%">
+</p>
+
+### 📈 Analysis & Insights
+
+<p align="center">
+  <img src="./02_gender_analysis.png" width="49%">
+  <img src="./03_age_analysis.png" width="49%">
+</p>
+
+<p align="center">
+  <img src="./04_performance_matrix.png" width="49%">
+  <img src="./05_risk_distribution.png" width="49%">
+</p>
+
+<p align="center">
+  <img src="./06_attendance_vs_academic.png" width="95%">
+</p>
+
+### 🛠️ Tools & Techniques
+
+`Microsoft Excel` • `Data Cleaning` • `Pivot Tables` •
+`KPI Analysis` • `Data Visualization` • `Dashboard Design`
+
+📥 [Download SmartCampus 360 Dashboard](./SmartCampus360_Executive_Dashboard.xlsx)
   
 ## 🎤 Speaking
 
