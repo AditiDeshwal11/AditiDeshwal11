@@ -50,6 +50,15 @@ I'm a final-year Computer Science graduate (University of Delhi) who got hooked 
 </p>
 </div>
 
+## 📈 Excel & Data Analysis Projects
+
+**SmartCampus 360 — Student Performance & Teaching Effectiveness Dashboard**
+- Analyzed 1,000+ student records across attendance, engagement, and academic performance
+- Built formula-driven KPI dashboard (AVERAGEIFS, COUNTIFS) with dynamic charts — no hardcoded values
+- Segmented students into Risk Levels (High/Medium/Low) and Performance Categories (Exceptional → Needs Improvement)
+- Identified key correlation: study hours and academic score both decline as age group increases, flagging a teaching-effectiveness gap for older student cohorts
+- **Tools:** Excel (PivotTables, PivotCharts, AVERAGEIFS/COUNTIFS), Data Visualization
+  
 ## 🎤 Speaking
 
 - Featured Speaker — International Girls in ICT Day (AIR FM Rainbow 102.6), Apr 2026
