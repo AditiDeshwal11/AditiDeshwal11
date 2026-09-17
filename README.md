@@ -59,6 +59,10 @@ I'm a final-year Computer Science graduate (University of Delhi) who got hooked 
 > success indicators.
 
 <p align="center">
+  <img src="./smartcampus360_dashboard_screenshot.png" width="95%">
+</p>
+
+<p align="center">
   <img src="./01_executive_overview.png" width="95%">
 </p>
 
