@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-# Hi, I'm Aditi Deshwal 🐥
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:22d3ee&height=220&section=header&text=Hi,%20I'm%20Aditi%20Deshwal%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Researcher%20%C3%97%20Fraud%20Detection%20%C3%97%20Data%20Analyst&descAlignY=58&descSize=19&descColor=fde68a&animation=twinkling&stroke=ffffff&strokeWidth=1"/>
 </p>
 
 <p align="center">
@@ -40,8 +40,14 @@ I'm a final-year Computer Science graduate (University of Delhi) who got hooked 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AditiDeshwal11&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiDeshwal11&layout=compact&theme=tokyonight" width="45%"/>
+
+<p align="center">
+  <img src="./github_analytics_animated.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./contribution_matrix_animated.svg" width="100%">
+</p>
 </div>
 
 ## 🎤 Speaking
